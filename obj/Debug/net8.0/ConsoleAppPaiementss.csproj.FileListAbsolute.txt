@@ -1,0 +1,15 @@
+C:\Users\oussa\source\repos\ConsoleAppPaiementss\ConsoleAppPaiementss\bin\Debug\net8.0\ConsoleAppPaiementss.exe
+C:\Users\oussa\source\repos\ConsoleAppPaiementss\ConsoleAppPaiementss\bin\Debug\net8.0\ConsoleAppPaiementss.deps.json
+C:\Users\oussa\source\repos\ConsoleAppPaiementss\ConsoleAppPaiementss\bin\Debug\net8.0\ConsoleAppPaiementss.runtimeconfig.json
+C:\Users\oussa\source\repos\ConsoleAppPaiementss\ConsoleAppPaiementss\bin\Debug\net8.0\ConsoleAppPaiementss.dll
+C:\Users\oussa\source\repos\ConsoleAppPaiementss\ConsoleAppPaiementss\bin\Debug\net8.0\ConsoleAppPaiementss.pdb
+C:\Users\oussa\source\repos\ConsoleAppPaiementss\ConsoleAppPaiementss\obj\Debug\net8.0\ConsoleAppPaiementss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oussa\source\repos\ConsoleAppPaiementss\ConsoleAppPaiementss\obj\Debug\net8.0\ConsoleAppPaiementss.AssemblyInfoInputs.cache
+C:\Users\oussa\source\repos\ConsoleAppPaiementss\ConsoleAppPaiementss\obj\Debug\net8.0\ConsoleAppPaiementss.AssemblyInfo.cs
+C:\Users\oussa\source\repos\ConsoleAppPaiementss\ConsoleAppPaiementss\obj\Debug\net8.0\ConsoleAppPaiementss.csproj.CoreCompileInputs.cache
+C:\Users\oussa\source\repos\ConsoleAppPaiementss\ConsoleAppPaiementss\obj\Debug\net8.0\ConsoleAppPaiementss.sourcelink.json
+C:\Users\oussa\source\repos\ConsoleAppPaiementss\ConsoleAppPaiementss\obj\Debug\net8.0\ConsoleAppPaiementss.dll
+C:\Users\oussa\source\repos\ConsoleAppPaiementss\ConsoleAppPaiementss\obj\Debug\net8.0\refint\ConsoleAppPaiementss.dll
+C:\Users\oussa\source\repos\ConsoleAppPaiementss\ConsoleAppPaiementss\obj\Debug\net8.0\ConsoleAppPaiementss.pdb
+C:\Users\oussa\source\repos\ConsoleAppPaiementss\ConsoleAppPaiementss\obj\Debug\net8.0\ConsoleAppPaiementss.genruntimeconfig.cache
+C:\Users\oussa\source\repos\ConsoleAppPaiementss\ConsoleAppPaiementss\obj\Debug\net8.0\ref\ConsoleAppPaiementss.dll
